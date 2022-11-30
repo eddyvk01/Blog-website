@@ -1,4 +1,3 @@
-
 # Blog-website  ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
 ![python License](https://img.shields.io/badge/MADE%20WITH-Django-blue.svg)
@@ -8,7 +7,9 @@ Creating a blog like application using python and Django where you can create ac
 Start by building 
 1. user Authentication - which make sure people can SignIn, create accountes ,sign out , so on and so forth 
 2. create posts- allow people to create posts, so they can post something on there blog or see there all blogs at one place
-3. allow functionality like Likes, Comments and kind of all the other things you would assume a blog app has 
+3. allow functionality like Likes, Comments and kind of all the other things you would assume a blog app has.
+
+https://user-images.githubusercontent.com/105595540/204773733-dd45a2a9-ad39-4bbd-94a2-34220c53a97d.mp4
 
 PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING. :)
 
